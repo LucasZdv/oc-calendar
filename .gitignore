@@ -1,0 +1,10 @@
+vendor/
+node_modules/
+_gsdata_/
+_psd-source_/
+# FTP Config Sublime
+sftp-config.json
+
+# FTP Config Atom
+.ftpconfig
+*.db
